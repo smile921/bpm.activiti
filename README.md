@@ -6,7 +6,7 @@
 
 * Activiti: **5.21.0**
 
-* Spring: **4.1.5.RELEASE**
+* Spring: **4.3.1.RELEASE**
 
  
 ## Maven方式运行
