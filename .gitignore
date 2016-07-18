@@ -1,12 +1,20 @@
-*.class
+/target
+/target/
+/src/main/resources/application.local.properties
+/src/test/resources/application.test.local.properties
+*~
+.ant_targets
+.DS_Store
+.bpmn
+*.iml
+.idea
+rebel.xml
+.settings
+.settings/
+.logs
+.logs/
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
-# Package Files #
-*.jar
-*.war
-*.ear
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+.classpath
+.project
